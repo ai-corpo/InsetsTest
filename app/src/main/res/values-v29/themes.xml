@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.V29.Theme.InsetsTest" parent="Base.v26.Theme.InsetsTest">
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <style name="Theme.InsetsTest" parent="Base.V29.Theme.InsetsTest" />
+</resources>

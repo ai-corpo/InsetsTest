@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">InsetsTest</string>
+    <string name="lorem" translatable="false">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Morbi vulputate vel lacus vel eleifend. Proin et nulla at justo feugiat ornare at vitae risus.
+        Quisque et interdum justo. Curabitur ac sagittis dolor.
+        Etiam nulla quam, eleifend varius ante vel, interdum bibendum nisi.
+        Aliquam ligula ligula, aliquet a urna nec, fringilla bibendum dolor. Sed feugiat dapibus massa,
+        sed consectetur est posuere eu. Integer feugiat sodales arcu ac commodo. Cras in velit imperdiet,
+        sodales elit scelerisque, molestie urna. Praesent lacinia venenatis pretium. Duis nunc sem, gravida a libero sit amet,
+        molestie facilisis mauris. Phasellus sit amet ornare quam. Sed leo risus, semper vitae sem bibendum, consequat mattis nunc.
+        Cras at mauris interdum ante vulputate maximus et a dolor. Etiam nisl odio, ultrices ac dolor vel, maximus elementum orci.
+        Sed fringilla augue quam, vitae vehicula est vehicula quis. Fusce risus enim, dictum eget eros blandit, dictum pharetra elit.
+        Etiam vel condimentum ante. Nam eu justo risus. In hac habitasse platea dictumst. Proin ac ante eu nibh ultrices rhoncus.
+        Fusce varius, orci id pulvinar pulvinar, neque augue rhoncus odio, ac egestas leo mi eget metus.
+        Vestibulum id justo dui. Suspendisse ullamcorper nec justo ac viverra. Aliquam facilisis magna eget suscipit aliquam.
+        Nunc vel felis vitae nunc congue imperdiet quis eu nisl. Sed ultricies elit pretium tortor dapibus, eget consequat eros cursus.
+        Fusce eu eros eu tellus lacinia varius. Aenean id vehicula lacus. Proin et ultrices nisi.
+        Vestibulum dictum imperdiet lorem eu pulvinar.
+        Duis mattis, lacus eleifend blandit elementum, ipsum dui fringilla ligula, vel cursus orci sem eget urna.
+        Ut elit nibh, fringilla eu ipsum quis, aliquam elementum velit.
+        Sed lobortis vitae lectus eu accumsan. Nunc dapibus id tortor et sagittis.
+        Quisque aliquet nulla ut nisl euismod finibus sed non augue. Nunc molestie ante ligula,
+        sit amet euismod orci faucibus ac. Duis sit amet nulla ac sapien feugiat condimentum.
+        Integer semper nisi ut laoreet laoreet. Suspendisse libero magna, luctus sit amet auctor et,
+        dapibus et ipsum. Vestibulum placerat augue et massa volutpat viverra. Morbi in pellentesque nisi.
+        Aliquam vehicula molestie turpis, commodo aliquet ligula faucibus vel. Pellentesque leo ipsum,
+        porttitor in scelerisque eu, sollicitudin vel nisl. Pellentesque consequat dolor eget eros viverra,
+        ullamcorper aliquam augue ullamcorper. Donec a maximus quam, ac maximus nibh. Donec odio turpis,
+        congue in quam sit amet, accumsan tempor orci. Quisque odio magna, euismod vel vehicula sed,
+        scelerisque eu urna. Praesent id malesuada nunc. Ut eu magna feugiat, efficitur elit vitae,
+        finibus urna. Nam vitae ante sem. Aliquam nunc nunc, mattis vitae pretium gravida, imperdiet id ipsum.
+        Donec ut ultrices massa. Phasellus laoreet, tortor vitae egestas tincidunt, nisi mauris facilisis nunc,
+        sit amet varius leo nisi at arcu. Pellentesque ligula risus, pharetra sit amet ex sit amet, lobortis varius ligula.
+        In sed dignissim metus, eu bibendum nisi. Nam mattis luctus orci. In at consectetur enim.
+    </string>
+</resources>
